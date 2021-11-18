@@ -1,4 +1,4 @@
-[GET HELP WITH YOUR iOS PROJECT](https://instamentor.com/mentors/leon)
+[GET HELP WITH YOUR iOS MACHINE LEARNING PROJECT](https://instamentor.com/mentors/leon){:target="_blank"}
 
 # seefood
 SeeFood on steroid, an object recognition iOS app based on SwiftUI, CoreML and Vision
