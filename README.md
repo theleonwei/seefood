@@ -9,8 +9,8 @@ Watch the following episode for the context:
 
 ## [SeeFood YouTube](https://www.youtube.com/watch?v=vIci3C4JkL0&ab_channel=RaptorX88RaptorX88)
 
-## Original article about this app:
-https://instamentor.com/articles/object-recognition-with-coreml-vision-and-swiftui-on-ios
+## Originally published at:
+https://posturenet.app/blog/object-recognition-with-coreml-vision-and-swiftui-on-ios/
 
 ![](/hotdog.jpeg)
 
