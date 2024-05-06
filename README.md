@@ -20,4 +20,6 @@ Watch the following episode for the context:
 * Allow camera or photo album access if it's the first time you tap the 📸 button on the top
 
 
+
+## Shameless plugin
 [AUTOMATE YOUR DATA ANALYTICS TASK WITH AI](https://skills.ai)
