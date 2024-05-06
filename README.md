@@ -8,7 +8,7 @@ Watch the following episode for the context:
 ## [SeeFood YouTube](https://www.youtube.com/watch?v=vIci3C4JkL0&ab_channel=RaptorX88RaptorX88)
 
 ## Originally published at:
-[https://posturenet.app/blog/object-recognition-with-coreml-vision-and-swiftui-on-ios/](https://posturereminderapp.com/blog/object-recognition-with-coreml-vision-and-swiftui-on-ios/)
+[https://posturereminderapp.com/blog/object-recognition-with-coreml-vision-and-swiftui-on-ios/](https://posturereminderapp.com/blog/object-recognition-with-coreml-vision-and-swiftui-on-ios/)
 
 ![](/hotdog.jpeg)
 
